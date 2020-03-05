@@ -7,8 +7,24 @@ Also: there's some comments there, explaining how things works. You should be fi
 
 That's it. Any doubts, contact me on Twitter/LinkedIn. o/
 
-#
-### How to
+# How to
+
+
+### To start the project, do the following
+
+clone the repo: `git clone https://github.com/devMozao/dynamic-checkbox-group-with-react-and-antd.git`
+
+navigate to the folder: ` cd dynamic-checkbox-group-with-react-and-antd`
+
+install the project dependencies with: `yarn` or `npm install` (yarn is recommended)
+
+and then, just run the project with the start script: `yarn start` or `npm run start`
+
+If you open the console on the broser, you will see the logs from the values that are currently showing and being selected.
+
+
+### If you want to see the content of the code
+
 go to
 
  `src/App.js`
@@ -23,17 +39,14 @@ from the container, you'll see the import to the component located at
 
 This is where all the magic happens between container and component ;)
 
-#
-### About
+# About
 
 author: Diogo "Mozão" Fonseca
 
 twitter/linkedin: @devmozao
 
-#
-### License
+# License
 
-For license, check the LICENSE.md file.
+Feel free to fork, improve or contribute.For license details, check the LICENSE.md file.
 
 
-Feel free to fork, improve or contribute!
