@@ -1,21 +1,15 @@
+// imports
 import React from 'react'
+// root component css
 import './App.css'
+// container import
+import Example from './containers/Example'
 
 function App () {
   return (
     <div className='App'>
       <header className='App-header'>
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className='App-link'
-          href='https://reactjs.org'
-          target='_blank'
-          rel='noopener noreferrer'
-        >
-          Learn React
-        </a>
+        <Example />
       </header>
     </div>
   )
