@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="A printscreen tha proofs that it works" src="./screenshots/proof-of-work.png">
+</p>
+
 # Motivation
 TL/DR: I needed to componentize this kind of behavior in a project, but antd itself doesn't have a decent preset with vertical list, so I created my own version-look-alike of their lib, using the some default components like Row/Cow/Checkbox and Checkbox.Group.
 
@@ -8,7 +12,6 @@ Also: there's some comments there, explaining how things works. You should be fi
 That's it. Any doubts, contact me on Twitter/LinkedIn. o/
 
 # How to
-
 
 ### To start the project, do the following
 
