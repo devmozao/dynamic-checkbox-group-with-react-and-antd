@@ -1,14 +1,18 @@
 {
+  "repository": "https://github.com/devMozao/dynamic-checkboxGroup-with-react-and-antd.git",
+  "author": "Diogo \"Mozão\" Fonseca <devmozao@outlook.com>",
   "name": "dynamic-checkbox-group-with-react-and-antd",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "license": "GPLV3",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "antd": "^4.0.1",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
-    "react-scripts": "3.4.0"
+    "react-scripts": "3.4.0",
+    "standard": "^14.3.1"
   },
   "scripts": {
     "start": "react-scripts start",
